@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+<sensor id="344120" type="alpha2" timestamp="1607086255"><value>eyJsb2NhdGlvbiI6IlBwicmVhZGluZyI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="435363" type="alpha1" timestamp="1607039842"><value>eyJsb2NhdGlvbiI6IlNlYXR0bGUiLCJyZWFkaW5nIjozMS4yLCJjYXRlZ29yeSI6InRlbXBlcmF0dXJlIiwidGFncyI6WzIxMyw1NjQsNDM1XX0=</value></sensor>
+<sensor id="945032" type="alpha1" timestamp="1607242980"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNl19</value></sensor>
+<sensor id="766794" type="alpha1" timestamp="1607330364"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNl19</value></sensor>
+<sensor id="877434" type="alpha1" timestamp="1607301489"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNl19</value></sensor>
+<sensor id="351378" type="alpha2" timestamp="1607123953"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNl19</value></sensor>
+<sensor id="487621" type="alpha2" timestamp="1607367764"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNl19</value></sensor>
+<sensor id="344120" type="alpha2" timestamp="1607086255"><value>eyJsb2NhdGlvbiI6IlBhcmlzIiwicmVhZGluZyI6MzAyLCJjYXRlZ29yeSI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="455492" type="alpha2" timestamp="1607248315"><value>eyJsb2NhdGlvbiI6IlNlYXR0bGUiLCJyZWFkaW5nIjozMS4yLCJjYXRlZ29yeSI6InRlbXBlcmF0dXJlIiwidGFncyI6WzIxMyw1NjQsNDM1XX0=</value></sensor>
+<sensor id="471551" type="alpha2" timestamp="1607169846"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="397189" type="alpha2" timestamp="1607205706"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="397190" type="alpha3" timestamp="1607205736"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="774535" type="alpha2" timestamp="1607059530"><value>eyJsb2NhdGlvbiI6IlRva3lvIiwicmVhZGluZyI6MzIuMiwiY2F0ZWdvcnkiOiJ0ZW1wZXJhdHVyZSIsInRhZ3MiOlsxMTcsNDY2LDIzNg==</value></sensor>
+<sensor id="268387" type="alpha3" timestamp="1607389124"><value>eyJsb2NhdGlvbiI6IlBhcmlzIiwicmVhZGluZyI6MzAyLCJjYXRlZ29yeSI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="418386" type="alpha3" timestamp="1607212831"><value>eyJsb2NhdGlvbiI6IlBhcmlzIiwicmVhZGluZyI6MzAyLCJjYXRlZ29yeSI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="933045" type="alpha3" timestamp="1607280535"><value>eyJsb2NhdGlvbiI6IlBhcmlzIiwicmVhZGluZyI6MzAyLCJjYXRlZ29yeSI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="439379" type="alpha3" timestamp="1607344940"><value>eyJsb2NhdGlvbiI6IlBhcmlzIiwicmVhZGluZyI6MzAyLCJjYXRlZ29yeSI6InNwZWVkIiwidGFncyI6WzE4Nyw0NTYsMjM0XX0=</value></sensor>
+<sensor id="928547" type="alpha3" timestamp="1607379399"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="141297" type="alpha3" timestamp="1607135057"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="231173" type="beta1" timestamp="1607245800"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+<sensor id="141597" type="alpha3" timestamp="1607165057"><value></value></sensor>
+<sensor id="231170" type="beta2" timestamp="1607245845"><value>eyJsb2NhdGlvbiI6Ik11bWJhaSIsInJlYWRpbmciOjEyLjMsImNhdGVnb3J5IjoiaHVtaWRpdHkiLCJ0YWdzIjpbNjQsNjU4LDEyM119</value></sensor>
+</devices>

@@ -1,0 +1,8 @@
+{
+    "AzDoBuildId": "__BUILDID__",
+    "AzDoJobAttemptId": "__ATTEMPTID__",
+    "VMName": "__VMNAME__",
+    "Status": "__STATUS__",
+    "TestResults": "__TESTRESULTS__",
+    "TaskName": "__TASKNAME__"
+}

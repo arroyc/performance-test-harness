@@ -1,0 +1,10 @@
+{
+    "key": "<guid>",
+    "value": {
+        "objValue1": 1,
+        "objValue2": "two",
+        "objValue3": {
+            "complex": "object"
+        }
+    }
+}
